@@ -4,7 +4,7 @@ Frontend Developer based in Nepal, building dynamic, responsive, and interactive
 
 - 🚀 **Learning:** Full-stack dev with Node.js & NestJS
 - 🎨 **Exploring:** 3D web animation with Three.js, React Three Fiber & GSAP
-- 💻 **Core stack:** React.js, Next.js, Tailwind CSS
+- 💻 **Core stack:** React.js, Next.js, Tailwind CSS, Typescript
 - 📫 **Reach me:** nischalsherchan9@gmail.com | https://www.linkedin.com/in/nischal-sherchan-115b25248/
 
 ---
