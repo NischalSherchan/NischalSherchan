@@ -4,7 +4,7 @@ Frontend Developer based in Nepal, building dynamic, responsive, and interactive
 
 - 🚀 **Learning:** Full-stack dev with Node.js & NestJS
 - 🎨 **Exploring:** 3D web animation with Three.js, React Three Fiber & GSAP
-- 💻 **Core stack:** React.js, Next.js, Tailwind CSS, Typescript
+- 💻 **Core stack:** React.js, Next.js, TypeScript, Tailwind CSS
 - 📫 **Reach me:** nischalsherchan9@gmail.com | https://www.linkedin.com/in/nischal-sherchan-115b25248/
 
 ---
@@ -17,9 +17,8 @@ A fully dynamic, full-stack cafe platform where all frontend content (menus, lin
 *   **Backend:** NestJS · PostgreSQL · JWT Authentication for Admin Dashboard
 *   🔗 **[Live Demo](https://cafe.sangamshrestha007.com.np/)**
 
-*Note: The Admin Panel is currently proprietary software protected by an NDA. 
-*⭐️ More work in my pinned repositories below.*
-
+* Note: The Admin Panel is currently proprietary software protected by an NDA. 
+* ⭐️ More work in my pinned repositories below.
 
 ---
 
@@ -29,6 +28,7 @@ A fully dynamic, full-stack cafe platform where all frontend content (menus, lin
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
@@ -37,14 +37,16 @@ A fully dynamic, full-stack cafe platform where all frontend content (menus, lin
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ---
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NischalSherchan&show_icons=true&theme=radical)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=NischalSherchan&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NischalSherchan&show_icons=true&theme=radical" alt="Nischal's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NischalSherchan&theme=radical" alt="Nischal's GitHub Streak" />
+</p>
 
 ---
 
